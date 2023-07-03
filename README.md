@@ -1,6 +1,3 @@
-# MERN stack shopping cart
-
-<img src="screenshots/mobile_shop.jpg"/>
 
 ## Intro
 
