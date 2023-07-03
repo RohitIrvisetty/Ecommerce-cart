@@ -1,3 +1,4 @@
+<img src="mobile_shop.jpg"/>
 
 ## Intro
 
